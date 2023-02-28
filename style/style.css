@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.natcont{
+    width: 800px;
+    margin: 50px auto;
+}
+.natcont #button{
+    width: 200px;
+    height: 34px;
+    color: #000000;
+    background-color: #DCD3D5;
+    font-size: 18px;
+    padding: 6px;
+    text-align: center;
+    cursor: pointer;
+}
